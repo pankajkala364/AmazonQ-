@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmazonQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bcf34711e4b3814d85b9e4c7f467ca1ffab90f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f3c6991389ef80b4d579355fb7b0b603694b550")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmazonQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmazonQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
